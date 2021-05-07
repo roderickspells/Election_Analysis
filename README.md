@@ -37,7 +37,7 @@ The analysis of the elections shows that:
 
 ##Challenge Summary
   
-  Election Results
+### Election Results
 
 Total Votes: 369,711
 
