@@ -15,7 +15,7 @@ A Colorodao Board of Elections employee has give you the following tasks to comp
 
 #Summary
 The analysis of the elections shows that:
-- There were "x" VOtes cast in the election.
+- There were "369,711" VOtes cast in the election.
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
@@ -28,5 +28,33 @@ The analysis of the elections shows that:
   -Candidate (Diana Degette), who received "73%" of the vote and "272,892" number of votes.
   
   ##Challenge Overview
+  Seth, the client, was seeking additinoal information about the election race. Him and his team wanted information that was based around the counties involved in the election audit. He tasked us with providing the following:
+
+1. Calculate the voter turnout for each county.
+2. Calculate the percentage of votes for each county contributed to the election.
+3. Determine which county had the largest turnout.
+
   
   ##Challenge Summary
+  
+  Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+Largest County Turnout Denver
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
+
