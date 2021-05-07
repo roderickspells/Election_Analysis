@@ -13,7 +13,7 @@ A Colorodao Board of Elections employee has give you the following tasks to comp
 - Data Source: election_results.csv
 - -Software: Python 3.9, Visual Studio Code, 1.38.1
 
-#Summary
+##Summary
 The analysis of the elections shows that:
 - There were "369,711" VOtes cast in the election.
 - The candidates were:
@@ -28,14 +28,14 @@ The analysis of the elections shows that:
   -Candidate (Diana Degette), who received "73%" of the vote and "272,892" number of votes.
   
   ##Challenge Overview
+  
   Seth, the client, was seeking additinoal information about the election race. Him and his team wanted information that was based around the counties involved in the election audit. He tasked us with providing the following:
 
 1. Calculate the voter turnout for each county.
 2. Calculate the percentage of votes for each county contributed to the election.
 3. Determine which county had the largest turnout.
 
-  
-  ##Challenge Summary
+##Challenge Summary
   
   Election Results
 -------------------------
